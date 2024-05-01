@@ -1,0 +1,8 @@
+[scheme-lsp]2024/05/01 09:08:34 main.go:14: Logger initalised...
+[scheme-lsp]2024/05/01 09:08:34 main.go:31: Received msg with method: initialize
+[scheme-lsp]2024/05/01 09:08:34 main.go:40: Connected to: Neovim 0.10.0-dev+g061a0d5a4
+[scheme-lsp]2024/05/01 09:08:34 main.go:51: Sent the reply: Content-Length: 130
+
+{"jsonrpc":"2.0","id":1,"result":{"capabilities":{"textDocumentSync":1},"serverInfo":{"name":"Scheme-lsp","version":"1.0-alpha"}}}
+[scheme-lsp]2024/05/01 09:08:35 main.go:31: Received msg with method: initialized
+[scheme-lsp]2024/05/01 09:43:10 main.go:31: Received msg with method: shutdown
